@@ -158,3 +158,91 @@ const Button: React.FC<ButtonProps> = ({ label, onClick }) => (
 ---
 
 💡 **Tip**: Gradually adopt TypeScript in your existing JavaScript projects to learn without being overwhelmed! 😊
+
+
+# Task 0 - TypeScript Project
+
+## Description
+This project demonstrates a basic setup using TypeScript and Webpack. It renders a table with student information (first name and location).
+
+## Requirements
+- Node.js
+- npm
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   ```
+2. Navigate to the `task_0` directory:
+   ```bash
+   cd task_0
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+## Dependencies
+Here are the dependencies installed for this Task 0, along with the commands used to install them:
+
+### Dev Dependencies
+- **TypeScript**: `5.2.2`  
+  Used for writing and compiling TypeScript code.
+  ```bash
+  npm install --save-dev typescript@5.2.2
+  ```
+- **Webpack**: `5.0.0`  
+  Bundler to compile and bundle the project.
+  ```bash
+  npm install --save-dev webpack@5.0.0
+  ```
+- **Webpack CLI**: `4.0.0`  
+  Command line interface for Webpack.
+  ```bash
+  npm install --save-dev webpack-cli@4.0.0
+  ```
+- **Webpack Dev Server**: `4.0.0`  
+  Development server for live reloading during development.
+  ```bash
+  npm install --save-dev webpack-dev-server@4.0.0
+  ```
+- **TS Loader**: `9.0.0`  
+  Loads TypeScript files into Webpack.
+  ```bash
+  npm install --save-dev ts-loader@9.0.0
+  ```
+- **ESLint**: `8.0.0`  
+  Linter for identifying and fixing problems in TypeScript/JavaScript code.
+  ```bash
+  npm install --save-dev eslint@8.0.0
+  ```
+- **@typescript-eslint/eslint-plugin**: `6.0.0`  
+  ESLint plugin for TypeScript-specific linting rules.
+  ```bash
+  npm install --save-dev @typescript-eslint/eslint-plugin@6.0.0
+  ```
+- **@typescript-eslint/parser**: `6.0.0`  
+  Parser for ESLint to understand TypeScript syntax.
+  ```bash
+  npm install --save-dev @typescript-eslint/parser@6.0.0
+  ```
+
+## Running the Project
+1. To start a development server:
+   ```bash
+   npm start
+   ```
+   Open your browser at [http://localhost:8080](http://localhost:8080).
+
+2. To build the project:
+   ```bash
+   npm run build
+   ```
+   The output file will be generated in the `dist/` directory.
+
+## File Structure
+- `js/main.ts` - TypeScript code for rendering the table.
+- `webpack.config.js` - Webpack configuration.
+- `tsconfig.json` - TypeScript configuration.
+- `index.html` - Entry point for the project.
