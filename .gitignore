@@ -1,8 +1,6 @@
 # Node modules
 node_modules/
 
-# Dossiers générés
-dist/
 
 # Fichiers de logs
 npm-debug.log*
