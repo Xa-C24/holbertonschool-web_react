@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ES6",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "lib": ["ES6", "DOM"],
+    "types": []  // Désactive l'importation automatique des types implicites
+  },
+  "include": ["./js/**/*.ts"],
+  "exclude": ["node_modules"]
+}
