@@ -80,4 +80,4 @@ The application dynamically generates the following table in the browser:
 
 ---
 
-If you have any questions or encounter issues, feel free to reach out. 🚀
+ 🚀
