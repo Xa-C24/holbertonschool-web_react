@@ -125,21 +125,3 @@ git add .
 git commit -m "Task 5 - Implement ClassRoom"
 git push origin main
 ```
-
----
-
-## **🎉 Félicitations !**
-Vous avez terminé la **Task 5** avec succès ! 🚀  
-Si tout fonctionne bien, vous pouvez passer à la **Task 6**.  
-
----
-
-### **📌 Prochaines Étapes**
-🔹 **Tout fonctionne bien ?** → Passez à la **Task 6**  
-🔹 **Un souci ?** → Vérifiez votre **`webpack.config.js`** et **`tsconfig.json`**  
-🔹 **Besoin d'aide ?** → Demandez-moi ! 😊  
-
----
-
-### **🚀 Bon courage et bravo pour votre travail !**  
-🔥 **On continue avec la Task 6 ?** 😊
