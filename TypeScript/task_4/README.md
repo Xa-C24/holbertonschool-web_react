@@ -140,5 +140,3 @@ Formatted Name: J. Doe
 - **Integration with HTML**: Displays student details dynamically.
 
 ---
-
-Great job! 🎉 You have successfully implemented a TypeScript class with interfaces! 🚀
