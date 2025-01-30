@@ -110,5 +110,3 @@ Object {
 - **Dynamic Properties**: Add custom attributes like `contract` dynamically.
 
 ---
-
-Feel free to explore and extend this task! Happy coding! 🎉
