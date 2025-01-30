@@ -123,6 +123,3 @@ Number of Reports: 17
 - **New Required Property**: `numberOfReports` is mandatory.
 - **HTML Integration**: Displays director details dynamically.
 
----
-
-Feel free to explore and extend this task! Happy coding! 🎉
